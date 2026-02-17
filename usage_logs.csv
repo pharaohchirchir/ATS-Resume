@@ -1,0 +1,12 @@
+timestamp_utc,action,fields,job_title,status
+2026-02-17T19:10:30.419841,quick_keyword_match,,,ok
+2026-02-17T19:10:36.669198,expert_analysis,Data Analyst,,ok
+2026-02-17T19:10:58.203167,percentage_match,,,ok
+2026-02-17T19:11:21.685392,generate_resume,Data Analyst,Data Analyst,ok
+2026-02-17T19:12:04.933464,recruiter_feedback,Data Analyst,,ok
+2026-02-17T19:32:26.778401,expert_analysis,Data Analyst,,ok
+2026-02-17T19:32:47.145196,generate_resume,Data Analyst,Business Analyst,ok
+2026-02-17T19:33:34.519205,recruiter_feedback,Business Analyst,,ok
+2026-02-17T20:07:38.150093,recruiter_feedback,Data Analyst,,ok
+2026-02-17T20:08:22.660865,percentage_match,,,ok
+2026-02-17T20:08:34.984467,recruiter_feedback,Data Analyst,,ok
