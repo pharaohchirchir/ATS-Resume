@@ -391,7 +391,7 @@ st.markdown(
     """
     <div class="studio-header">
         <h1>📄 ATS Resume Studio</h1>
-        <p>Tailored resume analysis &amp; generation for any profession — powered by Groq AI</p>
+        <p>Tailored resume analysis &amp; generation for any profession — Created by Pharaoh Chirchir</p>
         <div class="badge-row">
             <span class="badge">⚡ Instant ATS Scoring</span>
             <span class="badge">🧠 Expert AI Analysis</span>

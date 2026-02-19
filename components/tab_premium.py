@@ -14,7 +14,8 @@ from prompts.templates import (
     IDEAL_RESUME_PROMPT,
     INFER_FIELD_PROMPT,
     PERCENTAGE_MATCH_PROMPT,
-    RECRUITER_FEEDBACK_PROMPT,
+    build_recruiter_prompt,
+    get_recruiter_system_prompt,
 )
 from utils.ai_client import get_ai_response
 from utils.docx_builder import make_docx_from_text
@@ -121,7 +122,7 @@ def _render_tools(prefs: dict):
                     result = get_ai_response(
                         get_api_key(),
                         get_model(),
-                        RECRUITER_FEEDBACK_PROMPT.format(
+                        build_recruiter_prompt(
                             fields=fields_ctx,
                             jd=st.session_state["jd"],
                             resume=st.session_state["resume"],

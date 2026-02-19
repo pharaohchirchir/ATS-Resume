@@ -10,3 +10,27 @@ timestamp_utc,action,fields,job_title,status
 2026-02-17T20:07:38.150093,recruiter_feedback,Data Analyst,,ok
 2026-02-17T20:08:22.660865,percentage_match,,,ok
 2026-02-17T20:08:34.984467,recruiter_feedback,Data Analyst,,ok
+2026-02-19T12:31:47.898448,expert_analysis,Investment Analyst,,ok
+2026-02-19T12:32:17.816553,percentage_match,,,ok
+2026-02-19T12:32:41.911437,recruiter_feedback,Investment Analyst,,ok
+2026-02-19T12:33:36.120721,generate_resume,Investment Analyst,Analyst – East and Central Africa,ok
+2026-02-19T13:44:40.032576,expert_analysis,Education Technology,,ok
+2026-02-19T13:45:29.246123,generate_resume,Education Technology,Operations BI Analyst,ok
+2026-02-19T13:51:32.116112,percentage_match,,,ok
+2026-02-19T13:52:24.183424,expert_analysis,Education Technology Analyst,,ok
+2026-02-19T13:52:37.806071,percentage_match,,,ok
+2026-02-19T13:53:23.176953,recruiter_feedback,EdTech BI Analyst,,ok
+2026-02-19T13:55:17.968480,generate_resume,Education Technology BI Analyst,Operations BI Analyst,ok
+2026-02-19T14:02:21.851347,generate_resume,Education Technology Data Analyst,Operations BI Analyst,ok
+2026-02-19T14:05:22.105094,generate_resume,Education Technology BI Analyst,Operations BI Analyst,ok
+2026-02-19T14:06:04.955246,recruiter_feedback,Education Technology BI Analyst,,ok
+2026-02-19T14:06:46.164288,generate_resume,Education Technology Operations Analyst,Operations BI Analyst,ok
+2026-02-19T14:12:00.420667,generate_resume,Education Technology BI Analyst,Operations BI Analyst,ok
+2026-02-19T14:13:32.295370,percentage_match,,,ok
+2026-02-19T14:13:57.766177,expert_analysis,Education Technology Operations Analyst,,ok
+2026-02-19T14:14:47.483563,expert_analysis,Education Technology Analytics,,ok
+2026-02-19T14:15:03.441354,recruiter_feedback,Education Technology Analytics,,ok
+2026-02-19T14:15:36.615918,generate_resume,EdTech Operations Analyst,Operations BI Analyst,ok
+2026-02-19T14:21:31.094538,recruiter_feedback,EdTech Operations Analyst,,ok
+2026-02-19T14:25:22.207072,percentage_match,,,ok
+2026-02-19T14:25:39.348932,recruiter_feedback,Education Technology BI Analyst,,ok
